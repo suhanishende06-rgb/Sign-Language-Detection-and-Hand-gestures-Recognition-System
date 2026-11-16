@@ -1,0 +1,2 @@
+# Sign-Language-Detection-and-Hand-gestures-Recognition-System
+A real-time Indian Sign Language (ISL) recognition system that uses Python, OpenCV, MediaPipe, GCN, and BiLSTM to detect hand gestures and convert them into text, meaningful sentences, and speech.  **Key Features:** - Live Hand Detection - Dynamic Gesture Recognition - Text &amp; Speech Conversion - Sentence Formation - Confidence Score
