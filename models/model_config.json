@@ -1,0 +1,15 @@
+{
+    "model_name": "ISL_GCN",
+    "input_features": 126,
+    "num_hands": 2,
+    "landmarks_per_hand": 21,
+    "coordinates": 3,
+    "gcn_layers": [
+        32,
+        64,
+        64
+    ],
+    "num_classes": 26,
+    "normalization": "wrist_relative_scale",
+    "test_accuracy": 72.84
+}
